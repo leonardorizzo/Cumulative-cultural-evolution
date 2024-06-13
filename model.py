@@ -720,8 +720,13 @@ def modello(n=20, #Number of members per group !!!! MUST BE DIVISIBLE BY 5
             gini_fraction_knowledge_t, n_tools_av_t, fitness_all_av_t, gini_specialization_t, specialized_individuals_av_t,
            pairwise_dist_t,fraction_knowledge_fit_av_t, dic_dist)
 
+### Here you can run the model and specify which parameters to explore and the number of run (runs =...)
+### All of the files are saved in a pickle file, which can be useful to analyze a large amount of runs
+### You can also run the model one time using the function modello:
+### model_run = modello(Epochs_max=150, sharing_discoveries=True)
+### Check the parameter_space file to see which parameters we explored in the article.
 
-memories= [8,12,16,20]
+memories= [8,1000]
 sharing_discoveriess= [False,True]
 runs=50
 for counting in range(50):
