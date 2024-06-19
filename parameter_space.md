@@ -29,3 +29,5 @@ We tested all the combinations for memory = [8, 12, 16, 20, 1000] and sharing_di
 Additionally, we also performed a OAT sensitivity analysis on the population size, by altering parameters n (number of members per group) and M (number of groups). In particular we explored the cases n = [15, 20, 25] and M = [10, 15, 20]
 
 In our paper, we do not present further parameter exploration.
+
+You can find additional exploration guidance at the end of the file model.py.
