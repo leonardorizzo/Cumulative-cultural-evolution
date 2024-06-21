@@ -4,7 +4,6 @@ The model function is defined in Python as follows:
 
 
             def modello(n=20, #Number of members per group !!!! MUST BE DIVISIBLE BY 5
-            
                         M=15,  #Number of groups
                         Epochs_max=150, #Number of epochs
                         memory=10000, #Maximum tools in memory
