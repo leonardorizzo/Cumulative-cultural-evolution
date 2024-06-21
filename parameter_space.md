@@ -1,4 +1,4 @@
-# Here I describe the exploration of the parameter space that appeared in the articles.
+# Exploration of the parameter space that appeared in the article.
 
 The model function is defined in Python as follows:
 
