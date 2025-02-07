@@ -1,5 +1,5 @@
 # Cumulative cultural evolution, Agent-based model
-This repository contains the code for the model described in the article "Cultural Evolution, Social Ratcheting, and the Evolution of Human Division of Labour" (2024) by Vinicius, Rizzo, Battiston, and Migliano.
+This repository contains the code for the model described in the article "Cultural Evolution, Social Ratcheting, and the Evolution of Human Division of Labour" (2025) by Vinicius, Rizzo, Battiston, and Migliano.
 
 You can find the complete model in the file model.py and replicate all the results presented in the article.
 
